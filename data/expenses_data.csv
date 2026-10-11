@@ -1,0 +1,381 @@
+transaction_id,date,merchant,description,amount,currency,payment_method
+TRX-0001,2026-04-01,Traveloka,Tiket kereta perjalanan,411500,IDR,Bank Transfer
+TRX-0002,2026-04-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0003,2026-04-02,Kopi Kenangan,Kopi,26500,IDR,QRIS
+TRX-0004,2026-04-02,Grab,Transportasi mobil online,62500,IDR,Credit Card
+TRX-0005,2026-04-02,Laundry Bersih,Cuci setrika kiloan,51000,IDR,QRIS
+TRX-0006,2026-04-03,Kopi Kenangan,Kopi,34500,IDR,E-Wallet
+TRX-0007,2026-04-04,Alfamart,Belanja kebutuhan harian,29500,IDR,Debit Card
+TRX-0008,2026-04-05,Netflix,Langganan streaming bulanan,162000,IDR,Credit Card
+TRX-0009,2026-04-05,Apotek K24,Obat dan vitamin,51500,IDR,Debit Card
+TRX-0010,2026-04-05,Telkomsel,Pulsa dan paket data,128000,IDR,Debit Card
+TRX-0011,2026-04-06,Udemy,Kursus online,374500,IDR,Credit Card
+TRX-0012,2026-04-06,Warung Nasi Padang,Makan siang,44500,IDR,QRIS
+TRX-0013,2026-04-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0014,2026-04-07,Warung Nasi Padang,Makan siang,31500,IDR,QRIS
+TRX-0015,2026-04-07,GoFood,Pesan makanan online,94500,IDR,E-Wallet
+TRX-0016,2026-04-08,Gramedia,Buku,168000,IDR,Debit Card
+TRX-0017,2026-04-08,Gramedia,Buku,187500,IDR,Debit Card
+TRX-0018,2026-04-09,Traveloka,Tiket kereta perjalanan,416000,IDR,Credit Card
+TRX-0019,2026-04-09,Kopi Kenangan,Kopi,30500,IDR,QRIS
+TRX-0020,2026-04-10,PLN,Token listrik,136500,IDR,Bank Transfer
+TRX-0021,2026-04-11,CGV Cinemas,Tiket bioskop,40500,IDR,E-Wallet
+TRX-0022,2026-04-11,Shopee,Belanja online pakaian,216000,IDR,E-Wallet
+TRX-0023,2026-04-11,Alfamart,Belanja kebutuhan harian,46500,IDR,Cash
+TRX-0024,2026-04-12,PDAM,Tagihan air bulanan,156500,IDR,Bank Transfer
+TRX-0025,2026-04-12,Superindo,Belanja bulanan,568500,IDR,Credit Card
+TRX-0026,2026-04-14,Kopi Kenangan,Kopi,33500,IDR,QRIS
+TRX-0027,2026-04-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0028,2026-04-15,Gramedia,Buku,182500,IDR,Credit Card
+TRX-0029,2026-04-15,Gojek,Transportasi ojek online,47500,IDR,E-Wallet
+TRX-0030,2026-04-16,Telkomsel,Pulsa dan paket data,138000,IDR,Debit Card
+TRX-0031,2026-04-16,Klinik Sehat Bersama,Konsultasi dokter,285500,IDR,Cash
+TRX-0032,2026-04-18,Grab,Transportasi mobil online,36500,IDR,Credit Card
+TRX-0033,2026-04-18,Indomaret,Belanja kebutuhan harian,90500,IDR,Debit Card
+TRX-0034,2026-04-19,Indomaret,Belanja kebutuhan harian,27500,IDR,Cash
+TRX-0035,2026-04-19,Traveloka,Tiket kereta perjalanan,181000,IDR,Credit Card
+TRX-0036,2026-04-22,Superindo,Belanja bulanan,454500,IDR,Debit Card
+TRX-0037,2026-04-22,SPBU Pertamina,Isi bensin motor,57000,IDR,Cash
+TRX-0038,2026-04-23,Laundry Bersih,Cuci setrika kiloan,63000,IDR,QRIS
+TRX-0039,2026-04-24,CGV Cinemas,Tiket bioskop,66500,IDR,Debit Card
+TRX-0040,2026-04-25,Warung Nasi Padang,Makan siang,25000,IDR,QRIS
+TRX-0041,2026-04-25,Shopee,Belanja online pakaian,277000,IDR,Bank Transfer
+TRX-0042,2026-04-26,Alfamart,Belanja kebutuhan harian,28000,IDR,Debit Card
+TRX-0043,2026-04-26,Telkomsel,Pulsa dan paket data,145500,IDR,Debit Card
+TRX-0044,2026-04-26,Warung Nasi Padang,Makan siang,30000,IDR,Cash
+TRX-0045,2026-04-26,Gojek,Transportasi ojek online,47000,IDR,E-Wallet
+TRX-0046,2026-04-27,Apotek K24,Obat dan vitamin,83000,IDR,Debit Card
+TRX-0047,2026-04-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0048,2026-04-28,Grab,Transportasi mobil online,38000,IDR,Credit Card
+TRX-0049,2026-04-28,Udemy,Kursus online,174500,IDR,Credit Card
+TRX-0050,2026-04-28,Traveloka,Tiket kereta perjalanan,433500,IDR,Credit Card
+TRX-0051,2026-04-30,GoFood,Pesan makanan online,88500,IDR,E-Wallet
+TRX-0052,2026-05-01,Gojek,Transportasi ojek online,38500,IDR,E-Wallet
+TRX-0053,2026-05-01,GoFood,Pesan makanan online,84500,IDR,E-Wallet
+TRX-0054,2026-05-01,Telkomsel,Pulsa dan paket data,85000,IDR,Debit Card
+TRX-0055,2026-05-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0056,2026-05-02,Apotek K24,Obat dan vitamin,180500,IDR,Debit Card
+TRX-0057,2026-05-02,Kopi Kenangan,Kopi,24000,IDR,E-Wallet
+TRX-0058,2026-05-02,Gojek,Transportasi ojek online,16000,IDR,E-Wallet
+TRX-0059,2026-05-03,Alfamart,Belanja kebutuhan harian,21500,IDR,Cash
+TRX-0060,2026-05-03,CGV Cinemas,Tiket bioskop,56500,IDR,E-Wallet
+TRX-0061,2026-05-03,Alfamart,Belanja kebutuhan harian,81500,IDR,Debit Card
+TRX-0062,2026-05-04,Superindo,Belanja bulanan,497000,IDR,Debit Card
+TRX-0063,2026-05-05,Netflix,Langganan streaming bulanan,131000,IDR,Credit Card
+TRX-0064,2026-05-05,Telkomsel,Pulsa dan paket data,65500,IDR,E-Wallet
+TRX-0065,2026-05-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0066,2026-05-08,Laundry Bersih,Cuci setrika kiloan,62000,IDR,QRIS
+TRX-0067,2026-05-08,SPBU Pertamina,Isi bensin motor,38500,IDR,Debit Card
+TRX-0068,2026-05-08,Grab,Transportasi mobil online,63000,IDR,Credit Card
+TRX-0069,2026-05-09,Traveloka,Tiket kereta perjalanan,307500,IDR,Bank Transfer
+TRX-0070,2026-05-09,Tokopedia,Belanja online perlengkapan,141000,IDR,Bank Transfer
+TRX-0071,2026-05-10,PLN,Token listrik,158000,IDR,E-Wallet
+TRX-0072,2026-05-10,Barbershop Rapi,Potong rambut,53500,IDR,Cash
+TRX-0073,2026-05-10,Superindo,Belanja bulanan,467000,IDR,Debit Card
+TRX-0074,2026-05-10,Gramedia,Buku,103000,IDR,Debit Card
+TRX-0075,2026-05-10,Shopee,Belanja online pakaian,91000,IDR,E-Wallet
+TRX-0076,2026-05-11,KAI Commuter,Top up kartu commuter line,60500,IDR,E-Wallet
+TRX-0077,2026-05-11,Udemy,Kursus online,333500,IDR,Credit Card
+TRX-0078,2026-05-12,PDAM,Tagihan air bulanan,162000,IDR,Bank Transfer
+TRX-0079,2026-05-13,Warung Nasi Padang,Makan siang,26500,IDR,QRIS
+TRX-0080,2026-05-13,Warung Nasi Padang,Makan siang,25500,IDR,Cash
+TRX-0081,2026-05-14,KAI Commuter,Top up kartu commuter line,89500,IDR,Debit Card
+TRX-0082,2026-05-14,Tokopedia,Belanja online perlengkapan,278500,IDR,Credit Card
+TRX-0083,2026-05-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0084,2026-05-15,SPBU Pertamina,Isi bensin motor,28500,IDR,Cash
+TRX-0085,2026-05-15,Traveloka,Tiket kereta perjalanan,372000,IDR,Bank Transfer
+TRX-0086,2026-05-15,Alfamart,Belanja kebutuhan harian,15500,IDR,QRIS
+TRX-0087,2026-05-16,Traveloka,Tiket kereta perjalanan,287500,IDR,Credit Card
+TRX-0088,2026-05-16,Klinik Sehat Bersama,Konsultasi dokter,294500,IDR,Cash
+TRX-0089,2026-05-17,Warung Nasi Padang,Makan siang,24500,IDR,Cash
+TRX-0090,2026-05-19,Laundry Bersih,Cuci setrika kiloan,61000,IDR,Cash
+TRX-0091,2026-05-19,Apotek K24,Obat dan vitamin,68500,IDR,Cash
+TRX-0092,2026-05-20,Shopee,Belanja online pakaian,76000,IDR,Bank Transfer
+TRX-0093,2026-05-20,Gojek,Transportasi ojek online,28500,IDR,E-Wallet
+TRX-0094,2026-05-21,Udemy,Kursus online,381000,IDR,Credit Card
+TRX-0095,2026-05-21,Barbershop Rapi,Potong rambut,59500,IDR,Cash
+TRX-0096,2026-05-22,GoFood,Pesan makanan online,58000,IDR,E-Wallet
+TRX-0097,2026-05-23,GoFood,Pesan makanan online,78500,IDR,E-Wallet
+TRX-0098,2026-05-24,SPBU Pertamina,Isi bensin motor,35500,IDR,Cash
+TRX-0099,2026-05-24,Telkomsel,Pulsa dan paket data,55000,IDR,Debit Card
+TRX-0100,2026-05-25,Gojek,Transportasi ojek online,42000,IDR,E-Wallet
+TRX-0101,2026-05-26,Grab,Transportasi mobil online,57000,IDR,E-Wallet
+TRX-0102,2026-05-26,Gojek,Transportasi ojek online,38000,IDR,E-Wallet
+TRX-0103,2026-05-27,Superindo,Belanja bulanan,590500,IDR,Credit Card
+TRX-0104,2026-05-27,Shopee,Belanja online pakaian,391500,IDR,Bank Transfer
+TRX-0105,2026-05-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0106,2026-05-28,Indomaret,Belanja kebutuhan harian,33000,IDR,QRIS
+TRX-0107,2026-05-28,GoFood,Pesan makanan online,111000,IDR,E-Wallet
+TRX-0108,2026-05-30,Barbershop Rapi,Potong rambut,49000,IDR,QRIS
+TRX-0109,2026-05-31,Apotek K24,Obat dan vitamin,169000,IDR,Cash
+TRX-0110,2026-05-31,Telkomsel,Pulsa dan paket data,125500,IDR,E-Wallet
+TRX-0111,2026-05-31,SPBU Pertamina,Isi bensin motor,28000,IDR,Debit Card
+TRX-0112,2026-06-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0113,2026-06-02,Shopee,Belanja online pakaian,281000,IDR,E-Wallet
+TRX-0114,2026-06-03,Barbershop Rapi,Potong rambut,45500,IDR,Cash
+TRX-0115,2026-06-03,KAI Commuter,Top up kartu commuter line,83000,IDR,E-Wallet
+TRX-0116,2026-06-04,Tokopedia,Belanja online perlengkapan,487000,IDR,Credit Card
+TRX-0117,2026-06-04,Udemy,Kursus online,182500,IDR,Credit Card
+TRX-0118,2026-06-04,Apotek K24,Obat dan vitamin,134500,IDR,Cash
+TRX-0119,2026-06-05,Netflix,Langganan streaming bulanan,93000,IDR,Credit Card
+TRX-0120,2026-06-05,Telkomsel,Pulsa dan paket data,122000,IDR,E-Wallet
+TRX-0121,2026-06-05,KAI Commuter,Top up kartu commuter line,69000,IDR,Debit Card
+TRX-0122,2026-06-06,Laundry Bersih,Cuci setrika kiloan,65000,IDR,QRIS
+TRX-0123,2026-06-06,Klinik Sehat Bersama,Konsultasi dokter,266000,IDR,Cash
+TRX-0124,2026-06-06,Gojek,Transportasi ojek online,45500,IDR,E-Wallet
+TRX-0125,2026-06-06,GoFood,Pesan makanan online,121500,IDR,E-Wallet
+TRX-0126,2026-06-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0127,2026-06-07,Gramedia,Buku,155000,IDR,Credit Card
+TRX-0128,2026-06-07,Superindo,Belanja bulanan,614000,IDR,Debit Card
+TRX-0129,2026-06-07,KAI Commuter,Top up kartu commuter line,64500,IDR,Debit Card
+TRX-0130,2026-06-08,Indomaret,Belanja kebutuhan harian,24000,IDR,Debit Card
+TRX-0131,2026-06-09,Barbershop Rapi,Potong rambut,37500,IDR,QRIS
+TRX-0132,2026-06-09,Apotek K24,Obat dan vitamin,86000,IDR,Debit Card
+TRX-0133,2026-06-09,CGV Cinemas,Tiket bioskop,53000,IDR,E-Wallet
+TRX-0134,2026-06-10,PLN,Token listrik,199500,IDR,Bank Transfer
+TRX-0135,2026-06-10,Traveloka,Tiket kereta perjalanan,510500,IDR,Credit Card
+TRX-0136,2026-06-12,PDAM,Tagihan air bulanan,132000,IDR,Bank Transfer
+TRX-0137,2026-06-12,Grab,Transportasi mobil online,51000,IDR,Credit Card
+TRX-0138,2026-06-12,Alfamart,Belanja kebutuhan harian,47500,IDR,Debit Card
+TRX-0139,2026-06-12,Klinik Sehat Bersama,Konsultasi dokter,185000,IDR,Cash
+TRX-0140,2026-06-13,Klinik Sehat Bersama,Konsultasi dokter,310500,IDR,Cash
+TRX-0141,2026-06-13,Udemy,Kursus online,266000,IDR,Credit Card
+TRX-0142,2026-06-13,CGV Cinemas,Tiket bioskop,54500,IDR,Debit Card
+TRX-0143,2026-06-14,Traveloka,Tiket kereta perjalanan,295500,IDR,Bank Transfer
+TRX-0144,2026-06-14,Traveloka,Tiket kereta perjalanan,275500,IDR,Bank Transfer
+TRX-0145,2026-06-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0146,2026-06-15,Superindo,Belanja bulanan,559000,IDR,Credit Card
+TRX-0147,2026-06-15,Grab,Transportasi mobil online,63500,IDR,Credit Card
+TRX-0148,2026-06-15,Tokopedia,Belanja online perlengkapan,631500,IDR,Bank Transfer
+TRX-0149,2026-06-16,Kopi Kenangan,Kopi,25500,IDR,E-Wallet
+TRX-0150,2026-06-17,Gojek,Transportasi ojek online,16000,IDR,E-Wallet
+TRX-0151,2026-06-18,Tokopedia,Belanja online perlengkapan,634000,IDR,Credit Card
+TRX-0152,2026-06-18,Apotek K24,Obat dan vitamin,51500,IDR,Cash
+TRX-0153,2026-06-18,Apotek K24,Obat dan vitamin,137000,IDR,Cash
+TRX-0154,2026-06-19,CGV Cinemas,Tiket bioskop,40000,IDR,Debit Card
+TRX-0155,2026-06-19,KAI Commuter,Top up kartu commuter line,99500,IDR,E-Wallet
+TRX-0156,2026-06-19,Apotek K24,Obat dan vitamin,176000,IDR,Cash
+TRX-0157,2026-06-20,Grab,Transportasi mobil online,64000,IDR,Credit Card
+TRX-0158,2026-06-20,CGV Cinemas,Tiket bioskop,41000,IDR,Debit Card
+TRX-0159,2026-06-20,Tokopedia,Belanja online perlengkapan,766500,IDR,Credit Card
+TRX-0160,2026-06-20,GoFood,Pesan makanan online,96500,IDR,E-Wallet
+TRX-0161,2026-06-21,Telkomsel,Pulsa dan paket data,127500,IDR,E-Wallet
+TRX-0162,2026-06-23,Kopi Kenangan,Kopi,33000,IDR,QRIS
+TRX-0163,2026-06-23,Alfamart,Belanja kebutuhan harian,49000,IDR,QRIS
+TRX-0164,2026-06-23,Tokopedia,Belanja online perlengkapan,287000,IDR,Credit Card
+TRX-0165,2026-06-24,Tokopedia,Belanja online perlengkapan,462500,IDR,Credit Card
+TRX-0166,2026-06-24,Apotek K24,Obat dan vitamin,101000,IDR,Cash
+TRX-0167,2026-06-25,Indomaret,Belanja kebutuhan harian,88500,IDR,Debit Card
+TRX-0168,2026-06-25,Shopee,Belanja online pakaian,172500,IDR,E-Wallet
+TRX-0169,2026-06-25,Traveloka,Tiket kereta perjalanan,171000,IDR,Credit Card
+TRX-0170,2026-06-26,Gojek,Transportasi ojek online,13500,IDR,E-Wallet
+TRX-0171,2026-06-27,Kopi Kenangan,Kopi,33500,IDR,QRIS
+TRX-0172,2026-06-27,Laundry Bersih,Cuci setrika kiloan,39500,IDR,QRIS
+TRX-0173,2026-06-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0174,2026-06-28,Shopee,Belanja online pakaian,143000,IDR,E-Wallet
+TRX-0175,2026-06-28,GoFood,Pesan makanan online,76000,IDR,E-Wallet
+TRX-0176,2026-06-28,Laundry Bersih,Cuci setrika kiloan,26500,IDR,QRIS
+TRX-0177,2026-06-29,Telkomsel,Pulsa dan paket data,143500,IDR,E-Wallet
+TRX-0178,2026-06-29,Superindo,Belanja bulanan,495500,IDR,Debit Card
+TRX-0179,2026-06-29,Warung Nasi Padang,Makan siang,45000,IDR,QRIS
+TRX-0180,2026-07-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0181,2026-07-02,Udemy,Kursus online,261500,IDR,Credit Card
+TRX-0182,2026-07-02,Superindo,Belanja bulanan,450500,IDR,Credit Card
+TRX-0183,2026-07-04,CGV Cinemas,Tiket bioskop,43500,IDR,Debit Card
+TRX-0184,2026-07-04,Shopee,Belanja online pakaian,388000,IDR,Bank Transfer
+TRX-0185,2026-07-04,Kopi Kenangan,Kopi,32500,IDR,QRIS
+TRX-0186,2026-07-04,Gramedia,Buku,194500,IDR,Credit Card
+TRX-0187,2026-07-05,Netflix,Langganan streaming bulanan,137500,IDR,Credit Card
+TRX-0188,2026-07-05,Klinik Sehat Bersama,Konsultasi dokter,264000,IDR,Cash
+TRX-0189,2026-07-05,Tokopedia,Belanja online perlengkapan,322500,IDR,Bank Transfer
+TRX-0190,2026-07-05,SPBU Pertamina,Isi bensin motor,54500,IDR,Cash
+TRX-0191,2026-07-05,Klinik Sehat Bersama,Konsultasi dokter,299500,IDR,Cash
+TRX-0192,2026-07-06,Indomaret,Belanja kebutuhan harian,83000,IDR,QRIS
+TRX-0193,2026-07-06,GoFood,Pesan makanan online,99000,IDR,E-Wallet
+TRX-0194,2026-07-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0195,2026-07-07,SPBU Pertamina,Isi bensin motor,47500,IDR,Debit Card
+TRX-0196,2026-07-07,Barbershop Rapi,Potong rambut,58000,IDR,QRIS
+TRX-0197,2026-07-09,Superindo,Belanja bulanan,311500,IDR,Credit Card
+TRX-0198,2026-07-10,PLN,Token listrik,284500,IDR,Bank Transfer
+TRX-0199,2026-07-10,Udemy,Kursus online,347500,IDR,Credit Card
+TRX-0200,2026-07-10,CGV Cinemas,Tiket bioskop,61000,IDR,Debit Card
+TRX-0201,2026-07-10,Klinik Sehat Bersama,Konsultasi dokter,154500,IDR,Debit Card
+TRX-0202,2026-07-11,Grab,Transportasi mobil online,81000,IDR,E-Wallet
+TRX-0203,2026-07-11,KAI Commuter,Top up kartu commuter line,93500,IDR,E-Wallet
+TRX-0204,2026-07-11,CGV Cinemas,Tiket bioskop,58000,IDR,Debit Card
+TRX-0205,2026-07-12,PDAM,Tagihan air bulanan,91000,IDR,Bank Transfer
+TRX-0206,2026-07-12,Udemy,Kursus online,235500,IDR,Credit Card
+TRX-0207,2026-07-12,Klinik Sehat Bersama,Konsultasi dokter,221000,IDR,Cash
+TRX-0208,2026-07-12,SPBU Pertamina,Isi bensin motor,40000,IDR,Cash
+TRX-0209,2026-07-12,Gojek,Transportasi ojek online,32500,IDR,E-Wallet
+TRX-0210,2026-07-13,Gojek,Transportasi ojek online,26000,IDR,E-Wallet
+TRX-0211,2026-07-14,Laundry Bersih,Cuci setrika kiloan,59500,IDR,QRIS
+TRX-0212,2026-07-14,Warung Nasi Padang,Makan siang,28500,IDR,QRIS
+TRX-0213,2026-07-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0214,2026-07-15,Shopee,Belanja online pakaian,149000,IDR,Bank Transfer
+TRX-0215,2026-07-17,SPBU Pertamina,Isi bensin motor,28000,IDR,Cash
+TRX-0216,2026-07-18,Kopi Kenangan,Kopi,34000,IDR,QRIS
+TRX-0217,2026-07-18,Indomaret,Belanja kebutuhan harian,93000,IDR,QRIS
+TRX-0218,2026-07-18,CGV Cinemas,Tiket bioskop,55500,IDR,Debit Card
+TRX-0219,2026-07-19,GoFood,Pesan makanan online,41500,IDR,E-Wallet
+TRX-0220,2026-07-19,CGV Cinemas,Tiket bioskop,43500,IDR,E-Wallet
+TRX-0221,2026-07-19,Telkomsel,Pulsa dan paket data,114500,IDR,E-Wallet
+TRX-0222,2026-07-21,Kopi Kenangan,Kopi,36500,IDR,E-Wallet
+TRX-0223,2026-07-23,Warung Nasi Padang,Makan siang,40500,IDR,QRIS
+TRX-0224,2026-07-24,Gramedia,Buku,118000,IDR,Credit Card
+TRX-0225,2026-07-25,KAI Commuter,Top up kartu commuter line,88500,IDR,E-Wallet
+TRX-0226,2026-07-25,KAI Commuter,Top up kartu commuter line,87500,IDR,Debit Card
+TRX-0227,2026-07-25,Barbershop Rapi,Potong rambut,59500,IDR,Cash
+TRX-0228,2026-07-25,Gojek,Transportasi ojek online,26000,IDR,E-Wallet
+TRX-0229,2026-07-26,GoFood,Pesan makanan online,66500,IDR,E-Wallet
+TRX-0230,2026-07-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0231,2026-07-28,Indomaret,Belanja kebutuhan harian,71500,IDR,QRIS
+TRX-0232,2026-07-29,KAI Commuter,Top up kartu commuter line,52000,IDR,Debit Card
+TRX-0233,2026-07-29,KAI Commuter,Top up kartu commuter line,96500,IDR,E-Wallet
+TRX-0234,2026-07-29,Klinik Sehat Bersama,Konsultasi dokter,168500,IDR,Debit Card
+TRX-0235,2026-07-30,Traveloka,Tiket kereta perjalanan,459000,IDR,Credit Card
+TRX-0236,2026-07-30,Apotek K24,Obat dan vitamin,65000,IDR,Cash
+TRX-0237,2026-07-31,SPBU Pertamina,Isi bensin motor,34500,IDR,Cash
+TRX-0238,2026-08-01,GoFood,Pesan makanan online,75500,IDR,E-Wallet
+TRX-0239,2026-08-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0240,2026-08-02,Warung Nasi Padang,Makan siang,37500,IDR,QRIS
+TRX-0241,2026-08-02,Telkomsel,Pulsa dan paket data,85500,IDR,Debit Card
+TRX-0242,2026-08-02,Klinik Sehat Bersama,Konsultasi dokter,171000,IDR,Debit Card
+TRX-0243,2026-08-02,Apotek K24,Obat dan vitamin,119500,IDR,Debit Card
+TRX-0244,2026-08-05,Netflix,Langganan streaming bulanan,124500,IDR,Credit Card
+TRX-0245,2026-08-05,Laundry Bersih,Cuci setrika kiloan,63500,IDR,Cash
+TRX-0246,2026-08-06,Laundry Bersih,Cuci setrika kiloan,27500,IDR,Cash
+TRX-0247,2026-08-06,CGV Cinemas,Tiket bioskop,57000,IDR,Debit Card
+TRX-0248,2026-08-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0249,2026-08-07,GoFood,Pesan makanan online,111500,IDR,E-Wallet
+TRX-0250,2026-08-07,Traveloka,Tiket kereta perjalanan,577000,IDR,Bank Transfer
+TRX-0251,2026-08-08,CGV Cinemas,Tiket bioskop,51500,IDR,Debit Card
+TRX-0252,2026-08-09,Tokopedia,Belanja online perlengkapan,767500,IDR,Bank Transfer
+TRX-0253,2026-08-09,GoFood,Pesan makanan online,78000,IDR,E-Wallet
+TRX-0254,2026-08-09,CGV Cinemas,Tiket bioskop,49500,IDR,Debit Card
+TRX-0255,2026-08-10,PLN,Token listrik,193000,IDR,Bank Transfer
+TRX-0256,2026-08-11,Superindo,Belanja bulanan,350000,IDR,Credit Card
+TRX-0257,2026-08-11,Tokopedia,Belanja online perlengkapan,186500,IDR,Credit Card
+TRX-0258,2026-08-11,Gramedia,Buku,176000,IDR,Debit Card
+TRX-0259,2026-08-12,PDAM,Tagihan air bulanan,120000,IDR,Bank Transfer
+TRX-0260,2026-08-12,Apotek K24,Obat dan vitamin,49000,IDR,Cash
+TRX-0261,2026-08-12,Gramedia,Buku,115500,IDR,Credit Card
+TRX-0262,2026-08-12,Traveloka,Tiket kereta perjalanan,382000,IDR,Credit Card
+TRX-0263,2026-08-13,SPBU Pertamina,Isi bensin motor,33500,IDR,Debit Card
+TRX-0264,2026-08-14,CGV Cinemas,Tiket bioskop,44000,IDR,E-Wallet
+TRX-0265,2026-08-14,Traveloka,Tiket kereta perjalanan,469000,IDR,Credit Card
+TRX-0266,2026-08-14,GoFood,Pesan makanan online,75500,IDR,E-Wallet
+TRX-0267,2026-08-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0268,2026-08-15,Superindo,Belanja bulanan,303000,IDR,Debit Card
+TRX-0269,2026-08-15,Klinik Sehat Bersama,Konsultasi dokter,181000,IDR,Debit Card
+TRX-0270,2026-08-15,CGV Cinemas,Tiket bioskop,63500,IDR,Debit Card
+TRX-0271,2026-08-15,Gramedia,Buku,160500,IDR,Credit Card
+TRX-0272,2026-08-16,CGV Cinemas,Tiket bioskop,55500,IDR,E-Wallet
+TRX-0273,2026-08-16,Klinik Sehat Bersama,Konsultasi dokter,294500,IDR,Debit Card
+TRX-0274,2026-08-16,Telkomsel,Pulsa dan paket data,75000,IDR,E-Wallet
+TRX-0275,2026-08-16,Superindo,Belanja bulanan,330000,IDR,Credit Card
+TRX-0276,2026-08-17,Gramedia,Buku,103000,IDR,Debit Card
+TRX-0277,2026-08-17,KAI Commuter,Top up kartu commuter line,97500,IDR,E-Wallet
+TRX-0278,2026-08-18,Kopi Kenangan,Kopi,32500,IDR,E-Wallet
+TRX-0279,2026-08-18,Shopee,Belanja online pakaian,229500,IDR,Bank Transfer
+TRX-0280,2026-08-18,Klinik Sehat Bersama,Konsultasi dokter,234500,IDR,Debit Card
+TRX-0281,2026-08-19,Laundry Bersih,Cuci setrika kiloan,50000,IDR,Cash
+TRX-0282,2026-08-20,Alfamart,Belanja kebutuhan harian,56500,IDR,Cash
+TRX-0283,2026-08-20,CGV Cinemas,Tiket bioskop,63000,IDR,Debit Card
+TRX-0284,2026-08-20,Telkomsel,Pulsa dan paket data,137000,IDR,E-Wallet
+TRX-0285,2026-08-21,Alfamart,Belanja kebutuhan harian,31500,IDR,Cash
+TRX-0286,2026-08-21,Laundry Bersih,Cuci setrika kiloan,47000,IDR,Cash
+TRX-0287,2026-08-21,Klinik Sehat Bersama,Konsultasi dokter,176000,IDR,Cash
+TRX-0288,2026-08-22,Kopi Kenangan,Kopi,31500,IDR,QRIS
+TRX-0289,2026-08-23,CGV Cinemas,Tiket bioskop,65500,IDR,Debit Card
+TRX-0290,2026-08-24,Barbershop Rapi,Potong rambut,57500,IDR,QRIS
+TRX-0291,2026-08-24,Traveloka,Tiket kereta perjalanan,192000,IDR,Bank Transfer
+TRX-0292,2026-08-25,Tokopedia,Belanja online perlengkapan,722000,IDR,Credit Card
+TRX-0293,2026-08-25,Udemy,Kursus online,158500,IDR,Credit Card
+TRX-0294,2026-08-25,Grab,Transportasi mobil online,65500,IDR,E-Wallet
+TRX-0295,2026-08-27,Warung Nasi Padang,Makan siang,43000,IDR,Cash
+TRX-0296,2026-08-27,Klinik Sehat Bersama,Konsultasi dokter,193500,IDR,Cash
+TRX-0297,2026-08-27,Indomaret,Belanja kebutuhan harian,24000,IDR,QRIS
+TRX-0298,2026-08-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0299,2026-08-29,Shopee,Belanja online pakaian,251500,IDR,Bank Transfer
+TRX-0300,2026-08-29,Kopi Kenangan,Kopi,26000,IDR,E-Wallet
+TRX-0301,2026-08-29,Laundry Bersih,Cuci setrika kiloan,37000,IDR,Cash
+TRX-0302,2026-08-30,Superindo,Belanja bulanan,504500,IDR,Credit Card
+TRX-0303,2026-08-30,Barbershop Rapi,Potong rambut,57500,IDR,Cash
+TRX-0304,2026-08-31,Laundry Bersih,Cuci setrika kiloan,34500,IDR,Cash
+TRX-0305,2026-08-31,Klinik Sehat Bersama,Konsultasi dokter,317000,IDR,Cash
+TRX-0306,2026-08-31,Klinik Sehat Bersama,Konsultasi dokter,217000,IDR,Debit Card
+TRX-0307,2026-09-01,KAI Commuter,Top up kartu commuter line,94500,IDR,Debit Card
+TRX-0308,2026-09-01,Superindo,Belanja bulanan,416500,IDR,Credit Card
+TRX-0309,2026-09-01,Laundry Bersih,Cuci setrika kiloan,44500,IDR,QRIS
+TRX-0310,2026-09-02,Kos Melati,Pembayaran sewa kos bulanan,1500000,IDR,Bank Transfer
+TRX-0311,2026-09-02,Klinik Sehat Bersama,Konsultasi dokter,229000,IDR,Debit Card
+TRX-0312,2026-09-02,Telkomsel,Pulsa dan paket data,113500,IDR,E-Wallet
+TRX-0313,2026-09-03,Telkomsel,Pulsa dan paket data,125000,IDR,Debit Card
+TRX-0314,2026-09-04,KAI Commuter,Top up kartu commuter line,51500,IDR,E-Wallet
+TRX-0315,2026-09-04,SPBU Pertamina,Isi bensin motor,25500,IDR,Cash
+TRX-0316,2026-09-05,Netflix,Langganan streaming bulanan,149000,IDR,Credit Card
+TRX-0317,2026-09-05,KAI Commuter,Top up kartu commuter line,65000,IDR,E-Wallet
+TRX-0318,2026-09-05,Grab,Transportasi mobil online,53000,IDR,Credit Card
+TRX-0319,2026-09-05,Kopi Kenangan,Kopi,21000,IDR,QRIS
+TRX-0320,2026-09-05,KAI Commuter,Top up kartu commuter line,79000,IDR,Debit Card
+TRX-0321,2026-09-06,Kopi Kenangan,Kopi,21000,IDR,E-Wallet
+TRX-0322,2026-09-06,Tokopedia,Belanja online perlengkapan,500500,IDR,Bank Transfer
+TRX-0323,2026-09-06,Gojek,Transportasi ojek online,20500,IDR,E-Wallet
+TRX-0324,2026-09-07,Spotify,Langganan musik bulanan,54000,IDR,Credit Card
+TRX-0325,2026-09-07,GoFood,Pesan makanan online,68500,IDR,E-Wallet
+TRX-0326,2026-09-07,KAI Commuter,Top up kartu commuter line,99000,IDR,E-Wallet
+TRX-0327,2026-09-09,Superindo,Belanja bulanan,259000,IDR,Debit Card
+TRX-0328,2026-09-09,Telkomsel,Pulsa dan paket data,123000,IDR,Debit Card
+TRX-0329,2026-09-09,Superindo,Belanja bulanan,599500,IDR,Credit Card
+TRX-0330,2026-09-10,PLN,Token listrik,160000,IDR,Bank Transfer
+TRX-0331,2026-09-11,Udemy,Kursus online,181500,IDR,Credit Card
+TRX-0332,2026-09-11,Shopee,Belanja online pakaian,408000,IDR,Bank Transfer
+TRX-0333,2026-09-12,PDAM,Tagihan air bulanan,126500,IDR,Bank Transfer
+TRX-0334,2026-09-12,Traveloka,Tiket kereta perjalanan,345000,IDR,Credit Card
+TRX-0335,2026-09-12,Grab,Transportasi mobil online,90000,IDR,E-Wallet
+TRX-0336,2026-09-12,Barbershop Rapi,Potong rambut,53500,IDR,QRIS
+TRX-0337,2026-09-12,Barbershop Rapi,Potong rambut,42500,IDR,Cash
+TRX-0338,2026-09-13,KAI Commuter,Top up kartu commuter line,92500,IDR,E-Wallet
+TRX-0339,2026-09-13,Warung Nasi Padang,Makan siang,26500,IDR,Cash
+TRX-0340,2026-09-13,Alfamart,Belanja kebutuhan harian,55000,IDR,QRIS
+TRX-0341,2026-09-13,Warung Nasi Padang,Makan siang,25000,IDR,Cash
+TRX-0342,2026-09-14,Telkomsel,Pulsa dan paket data,109500,IDR,Debit Card
+TRX-0343,2026-09-15,Gold's Gym,Iuran gym bulanan,250000,IDR,Credit Card
+TRX-0344,2026-09-15,Laundry Bersih,Cuci setrika kiloan,35000,IDR,QRIS
+TRX-0345,2026-09-15,Traveloka,Tiket kereta perjalanan,202000,IDR,Bank Transfer
+TRX-0346,2026-09-15,Barbershop Rapi,Potong rambut,48500,IDR,QRIS
+TRX-0347,2026-09-17,Gojek,Transportasi ojek online,41000,IDR,E-Wallet
+TRX-0348,2026-09-17,Grab,Transportasi mobil online,75500,IDR,E-Wallet
+TRX-0349,2026-09-18,Udemy,Kursus online,385500,IDR,Credit Card
+TRX-0350,2026-09-18,Alfamart,Belanja kebutuhan harian,67000,IDR,QRIS
+TRX-0351,2026-09-19,Warung Nasi Padang,Makan siang,37000,IDR,Cash
+TRX-0352,2026-09-19,Gojek,Transportasi ojek online,13500,IDR,E-Wallet
+TRX-0353,2026-09-20,Grab,Transportasi mobil online,44500,IDR,E-Wallet
+TRX-0354,2026-09-20,Superindo,Belanja bulanan,586000,IDR,Debit Card
+TRX-0355,2026-09-20,Laundry Bersih,Cuci setrika kiloan,39000,IDR,Cash
+TRX-0356,2026-09-21,Kopi Kenangan,Kopi,37500,IDR,QRIS
+TRX-0357,2026-09-21,SPBU Pertamina,Isi bensin motor,34500,IDR,Cash
+TRX-0358,2026-09-22,GoFood,Pesan makanan online,49500,IDR,E-Wallet
+TRX-0359,2026-09-22,Kopi Kenangan,Kopi,18500,IDR,E-Wallet
+TRX-0360,2026-09-23,Laundry Bersih,Cuci setrika kiloan,46000,IDR,Cash
+TRX-0361,2026-09-24,SPBU Pertamina,Isi bensin motor,28500,IDR,Cash
+TRX-0362,2026-09-25,Gramedia,Buku,83000,IDR,Debit Card
+TRX-0363,2026-09-25,CGV Cinemas,Tiket bioskop,54500,IDR,Debit Card
+TRX-0364,2026-09-25,Gramedia,Buku,146000,IDR,Debit Card
+TRX-0365,2026-09-26,Gramedia,Buku,97000,IDR,Debit Card
+TRX-0366,2026-09-26,Gramedia,Buku,107500,IDR,Credit Card
+TRX-0367,2026-09-26,Traveloka,Tiket kereta perjalanan,166500,IDR,Credit Card
+TRX-0368,2026-09-26,CGV Cinemas,Tiket bioskop,68000,IDR,Debit Card
+TRX-0369,2026-09-27,Warung Nasi Padang,Makan siang,38000,IDR,QRIS
+TRX-0370,2026-09-27,Superindo,Belanja bulanan,227500,IDR,Credit Card
+TRX-0371,2026-09-27,Barbershop Rapi,Potong rambut,40000,IDR,Cash
+TRX-0372,2026-09-27,Kopi Kenangan,Kopi,27000,IDR,E-Wallet
+TRX-0373,2026-09-28,Bank Mandiri,Biaya admin bulanan,15000,IDR,Bank Transfer
+TRX-0374,2026-09-28,Barbershop Rapi,Potong rambut,52500,IDR,QRIS
+TRX-0375,2026-09-28,Klinik Sehat Bersama,Konsultasi dokter,282500,IDR,Cash
+TRX-0376,2026-09-28,Warung Nasi Padang,Makan siang,45000,IDR,Cash
+TRX-0377,2026-09-29,Apotek K24,Obat dan vitamin,153500,IDR,Cash
+TRX-0378,2026-09-30,Tokopedia,Belanja online perlengkapan,540500,IDR,Credit Card
+TRX-0379,2026-09-30,Apotek K24,Obat dan vitamin,60000,IDR,Debit Card
+TRX-0380,2026-09-30,Apotek K24,Obat dan vitamin,117000,IDR,Debit Card

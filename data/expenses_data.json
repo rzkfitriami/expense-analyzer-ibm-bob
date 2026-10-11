@@ -1,0 +1,3422 @@
+[
+  {
+    "transaction_id": "TRX-0001",
+    "date": "2026-04-01",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 411500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0002",
+    "date": "2026-04-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0003",
+    "date": "2026-04-02",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 26500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0004",
+    "date": "2026-04-02",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 62500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0005",
+    "date": "2026-04-02",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 51000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0006",
+    "date": "2026-04-03",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 34500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0007",
+    "date": "2026-04-04",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 29500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0008",
+    "date": "2026-04-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 162000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0009",
+    "date": "2026-04-05",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 51500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0010",
+    "date": "2026-04-05",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 128000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0011",
+    "date": "2026-04-06",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 374500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0012",
+    "date": "2026-04-06",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 44500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0013",
+    "date": "2026-04-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0014",
+    "date": "2026-04-07",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 31500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0015",
+    "date": "2026-04-07",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 94500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0016",
+    "date": "2026-04-08",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 168000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0017",
+    "date": "2026-04-08",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 187500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0018",
+    "date": "2026-04-09",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 416000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0019",
+    "date": "2026-04-09",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 30500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0020",
+    "date": "2026-04-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 136500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0021",
+    "date": "2026-04-11",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 40500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0022",
+    "date": "2026-04-11",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 216000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0023",
+    "date": "2026-04-11",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 46500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0024",
+    "date": "2026-04-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 156500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0025",
+    "date": "2026-04-12",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 568500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0026",
+    "date": "2026-04-14",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 33500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0027",
+    "date": "2026-04-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0028",
+    "date": "2026-04-15",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 182500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0029",
+    "date": "2026-04-15",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 47500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0030",
+    "date": "2026-04-16",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 138000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0031",
+    "date": "2026-04-16",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 285500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0032",
+    "date": "2026-04-18",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 36500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0033",
+    "date": "2026-04-18",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 90500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0034",
+    "date": "2026-04-19",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 27500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0035",
+    "date": "2026-04-19",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 181000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0036",
+    "date": "2026-04-22",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 454500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0037",
+    "date": "2026-04-22",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 57000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0038",
+    "date": "2026-04-23",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 63000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0039",
+    "date": "2026-04-24",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 66500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0040",
+    "date": "2026-04-25",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 25000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0041",
+    "date": "2026-04-25",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 277000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0042",
+    "date": "2026-04-26",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 28000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0043",
+    "date": "2026-04-26",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 145500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0044",
+    "date": "2026-04-26",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 30000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0045",
+    "date": "2026-04-26",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 47000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0046",
+    "date": "2026-04-27",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 83000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0047",
+    "date": "2026-04-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0048",
+    "date": "2026-04-28",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 38000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0049",
+    "date": "2026-04-28",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 174500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0050",
+    "date": "2026-04-28",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 433500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0051",
+    "date": "2026-04-30",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 88500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0052",
+    "date": "2026-05-01",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 38500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0053",
+    "date": "2026-05-01",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 84500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0054",
+    "date": "2026-05-01",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 85000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0055",
+    "date": "2026-05-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0056",
+    "date": "2026-05-02",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 180500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0057",
+    "date": "2026-05-02",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 24000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0058",
+    "date": "2026-05-02",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 16000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0059",
+    "date": "2026-05-03",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 21500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0060",
+    "date": "2026-05-03",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 56500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0061",
+    "date": "2026-05-03",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 81500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0062",
+    "date": "2026-05-04",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 497000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0063",
+    "date": "2026-05-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 131000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0064",
+    "date": "2026-05-05",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 65500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0065",
+    "date": "2026-05-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0066",
+    "date": "2026-05-08",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 62000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0067",
+    "date": "2026-05-08",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 38500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0068",
+    "date": "2026-05-08",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 63000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0069",
+    "date": "2026-05-09",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 307500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0070",
+    "date": "2026-05-09",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 141000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0071",
+    "date": "2026-05-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 158000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0072",
+    "date": "2026-05-10",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 53500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0073",
+    "date": "2026-05-10",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 467000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0074",
+    "date": "2026-05-10",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 103000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0075",
+    "date": "2026-05-10",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 91000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0076",
+    "date": "2026-05-11",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 60500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0077",
+    "date": "2026-05-11",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 333500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0078",
+    "date": "2026-05-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 162000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0079",
+    "date": "2026-05-13",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 26500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0080",
+    "date": "2026-05-13",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 25500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0081",
+    "date": "2026-05-14",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 89500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0082",
+    "date": "2026-05-14",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 278500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0083",
+    "date": "2026-05-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0084",
+    "date": "2026-05-15",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 28500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0085",
+    "date": "2026-05-15",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 372000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0086",
+    "date": "2026-05-15",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 15500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0087",
+    "date": "2026-05-16",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 287500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0088",
+    "date": "2026-05-16",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 294500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0089",
+    "date": "2026-05-17",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 24500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0090",
+    "date": "2026-05-19",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 61000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0091",
+    "date": "2026-05-19",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 68500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0092",
+    "date": "2026-05-20",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 76000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0093",
+    "date": "2026-05-20",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 28500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0094",
+    "date": "2026-05-21",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 381000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0095",
+    "date": "2026-05-21",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 59500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0096",
+    "date": "2026-05-22",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 58000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0097",
+    "date": "2026-05-23",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 78500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0098",
+    "date": "2026-05-24",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 35500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0099",
+    "date": "2026-05-24",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 55000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0100",
+    "date": "2026-05-25",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 42000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0101",
+    "date": "2026-05-26",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 57000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0102",
+    "date": "2026-05-26",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 38000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0103",
+    "date": "2026-05-27",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 590500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0104",
+    "date": "2026-05-27",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 391500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0105",
+    "date": "2026-05-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0106",
+    "date": "2026-05-28",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 33000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0107",
+    "date": "2026-05-28",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 111000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0108",
+    "date": "2026-05-30",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 49000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0109",
+    "date": "2026-05-31",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 169000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0110",
+    "date": "2026-05-31",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 125500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0111",
+    "date": "2026-05-31",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 28000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0112",
+    "date": "2026-06-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0113",
+    "date": "2026-06-02",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 281000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0114",
+    "date": "2026-06-03",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 45500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0115",
+    "date": "2026-06-03",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 83000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0116",
+    "date": "2026-06-04",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 487000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0117",
+    "date": "2026-06-04",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 182500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0118",
+    "date": "2026-06-04",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 134500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0119",
+    "date": "2026-06-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 93000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0120",
+    "date": "2026-06-05",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 122000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0121",
+    "date": "2026-06-05",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 69000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0122",
+    "date": "2026-06-06",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 65000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0123",
+    "date": "2026-06-06",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 266000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0124",
+    "date": "2026-06-06",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 45500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0125",
+    "date": "2026-06-06",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 121500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0126",
+    "date": "2026-06-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0127",
+    "date": "2026-06-07",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 155000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0128",
+    "date": "2026-06-07",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 614000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0129",
+    "date": "2026-06-07",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 64500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0130",
+    "date": "2026-06-08",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 24000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0131",
+    "date": "2026-06-09",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 37500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0132",
+    "date": "2026-06-09",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 86000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0133",
+    "date": "2026-06-09",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 53000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0134",
+    "date": "2026-06-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 199500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0135",
+    "date": "2026-06-10",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 510500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0136",
+    "date": "2026-06-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 132000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0137",
+    "date": "2026-06-12",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 51000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0138",
+    "date": "2026-06-12",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 47500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0139",
+    "date": "2026-06-12",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 185000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0140",
+    "date": "2026-06-13",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 310500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0141",
+    "date": "2026-06-13",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 266000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0142",
+    "date": "2026-06-13",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 54500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0143",
+    "date": "2026-06-14",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 295500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0144",
+    "date": "2026-06-14",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 275500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0145",
+    "date": "2026-06-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0146",
+    "date": "2026-06-15",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 559000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0147",
+    "date": "2026-06-15",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 63500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0148",
+    "date": "2026-06-15",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 631500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0149",
+    "date": "2026-06-16",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 25500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0150",
+    "date": "2026-06-17",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 16000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0151",
+    "date": "2026-06-18",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 634000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0152",
+    "date": "2026-06-18",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 51500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0153",
+    "date": "2026-06-18",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 137000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0154",
+    "date": "2026-06-19",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 40000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0155",
+    "date": "2026-06-19",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 99500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0156",
+    "date": "2026-06-19",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 176000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0157",
+    "date": "2026-06-20",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 64000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0158",
+    "date": "2026-06-20",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 41000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0159",
+    "date": "2026-06-20",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 766500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0160",
+    "date": "2026-06-20",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 96500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0161",
+    "date": "2026-06-21",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 127500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0162",
+    "date": "2026-06-23",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 33000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0163",
+    "date": "2026-06-23",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 49000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0164",
+    "date": "2026-06-23",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 287000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0165",
+    "date": "2026-06-24",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 462500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0166",
+    "date": "2026-06-24",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 101000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0167",
+    "date": "2026-06-25",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 88500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0168",
+    "date": "2026-06-25",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 172500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0169",
+    "date": "2026-06-25",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 171000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0170",
+    "date": "2026-06-26",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 13500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0171",
+    "date": "2026-06-27",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 33500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0172",
+    "date": "2026-06-27",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 39500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0173",
+    "date": "2026-06-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0174",
+    "date": "2026-06-28",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 143000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0175",
+    "date": "2026-06-28",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 76000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0176",
+    "date": "2026-06-28",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 26500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0177",
+    "date": "2026-06-29",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 143500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0178",
+    "date": "2026-06-29",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 495500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0179",
+    "date": "2026-06-29",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 45000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0180",
+    "date": "2026-07-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0181",
+    "date": "2026-07-02",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 261500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0182",
+    "date": "2026-07-02",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 450500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0183",
+    "date": "2026-07-04",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 43500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0184",
+    "date": "2026-07-04",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 388000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0185",
+    "date": "2026-07-04",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 32500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0186",
+    "date": "2026-07-04",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 194500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0187",
+    "date": "2026-07-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 137500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0188",
+    "date": "2026-07-05",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 264000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0189",
+    "date": "2026-07-05",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 322500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0190",
+    "date": "2026-07-05",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 54500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0191",
+    "date": "2026-07-05",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 299500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0192",
+    "date": "2026-07-06",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 83000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0193",
+    "date": "2026-07-06",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 99000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0194",
+    "date": "2026-07-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0195",
+    "date": "2026-07-07",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 47500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0196",
+    "date": "2026-07-07",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 58000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0197",
+    "date": "2026-07-09",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 311500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0198",
+    "date": "2026-07-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 284500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0199",
+    "date": "2026-07-10",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 347500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0200",
+    "date": "2026-07-10",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 61000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0201",
+    "date": "2026-07-10",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 154500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0202",
+    "date": "2026-07-11",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 81000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0203",
+    "date": "2026-07-11",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 93500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0204",
+    "date": "2026-07-11",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 58000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0205",
+    "date": "2026-07-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 91000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0206",
+    "date": "2026-07-12",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 235500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0207",
+    "date": "2026-07-12",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 221000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0208",
+    "date": "2026-07-12",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 40000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0209",
+    "date": "2026-07-12",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 32500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0210",
+    "date": "2026-07-13",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 26000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0211",
+    "date": "2026-07-14",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 59500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0212",
+    "date": "2026-07-14",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 28500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0213",
+    "date": "2026-07-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0214",
+    "date": "2026-07-15",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 149000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0215",
+    "date": "2026-07-17",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 28000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0216",
+    "date": "2026-07-18",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 34000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0217",
+    "date": "2026-07-18",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 93000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0218",
+    "date": "2026-07-18",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 55500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0219",
+    "date": "2026-07-19",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 41500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0220",
+    "date": "2026-07-19",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 43500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0221",
+    "date": "2026-07-19",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 114500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0222",
+    "date": "2026-07-21",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 36500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0223",
+    "date": "2026-07-23",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 40500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0224",
+    "date": "2026-07-24",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 118000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0225",
+    "date": "2026-07-25",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 88500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0226",
+    "date": "2026-07-25",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 87500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0227",
+    "date": "2026-07-25",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 59500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0228",
+    "date": "2026-07-25",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 26000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0229",
+    "date": "2026-07-26",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 66500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0230",
+    "date": "2026-07-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0231",
+    "date": "2026-07-28",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 71500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0232",
+    "date": "2026-07-29",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 52000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0233",
+    "date": "2026-07-29",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 96500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0234",
+    "date": "2026-07-29",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 168500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0235",
+    "date": "2026-07-30",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 459000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0236",
+    "date": "2026-07-30",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 65000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0237",
+    "date": "2026-07-31",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 34500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0238",
+    "date": "2026-08-01",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 75500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0239",
+    "date": "2026-08-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0240",
+    "date": "2026-08-02",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 37500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0241",
+    "date": "2026-08-02",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 85500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0242",
+    "date": "2026-08-02",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 171000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0243",
+    "date": "2026-08-02",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 119500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0244",
+    "date": "2026-08-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 124500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0245",
+    "date": "2026-08-05",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 63500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0246",
+    "date": "2026-08-06",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 27500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0247",
+    "date": "2026-08-06",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 57000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0248",
+    "date": "2026-08-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0249",
+    "date": "2026-08-07",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 111500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0250",
+    "date": "2026-08-07",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 577000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0251",
+    "date": "2026-08-08",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 51500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0252",
+    "date": "2026-08-09",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 767500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0253",
+    "date": "2026-08-09",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 78000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0254",
+    "date": "2026-08-09",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 49500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0255",
+    "date": "2026-08-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 193000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0256",
+    "date": "2026-08-11",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 350000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0257",
+    "date": "2026-08-11",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 186500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0258",
+    "date": "2026-08-11",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 176000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0259",
+    "date": "2026-08-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 120000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0260",
+    "date": "2026-08-12",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 49000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0261",
+    "date": "2026-08-12",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 115500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0262",
+    "date": "2026-08-12",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 382000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0263",
+    "date": "2026-08-13",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 33500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0264",
+    "date": "2026-08-14",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 44000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0265",
+    "date": "2026-08-14",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 469000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0266",
+    "date": "2026-08-14",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 75500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0267",
+    "date": "2026-08-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0268",
+    "date": "2026-08-15",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 303000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0269",
+    "date": "2026-08-15",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 181000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0270",
+    "date": "2026-08-15",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 63500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0271",
+    "date": "2026-08-15",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 160500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0272",
+    "date": "2026-08-16",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 55500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0273",
+    "date": "2026-08-16",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 294500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0274",
+    "date": "2026-08-16",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 75000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0275",
+    "date": "2026-08-16",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 330000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0276",
+    "date": "2026-08-17",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 103000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0277",
+    "date": "2026-08-17",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 97500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0278",
+    "date": "2026-08-18",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 32500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0279",
+    "date": "2026-08-18",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 229500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0280",
+    "date": "2026-08-18",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 234500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0281",
+    "date": "2026-08-19",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 50000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0282",
+    "date": "2026-08-20",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 56500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0283",
+    "date": "2026-08-20",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 63000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0284",
+    "date": "2026-08-20",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 137000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0285",
+    "date": "2026-08-21",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 31500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0286",
+    "date": "2026-08-21",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 47000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0287",
+    "date": "2026-08-21",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 176000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0288",
+    "date": "2026-08-22",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 31500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0289",
+    "date": "2026-08-23",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 65500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0290",
+    "date": "2026-08-24",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 57500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0291",
+    "date": "2026-08-24",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 192000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0292",
+    "date": "2026-08-25",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 722000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0293",
+    "date": "2026-08-25",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 158500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0294",
+    "date": "2026-08-25",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 65500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0295",
+    "date": "2026-08-27",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 43000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0296",
+    "date": "2026-08-27",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 193500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0297",
+    "date": "2026-08-27",
+    "merchant": "Indomaret",
+    "description": "Belanja kebutuhan harian",
+    "amount": 24000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0298",
+    "date": "2026-08-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0299",
+    "date": "2026-08-29",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 251500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0300",
+    "date": "2026-08-29",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 26000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0301",
+    "date": "2026-08-29",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 37000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0302",
+    "date": "2026-08-30",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 504500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0303",
+    "date": "2026-08-30",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 57500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0304",
+    "date": "2026-08-31",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 34500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0305",
+    "date": "2026-08-31",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 317000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0306",
+    "date": "2026-08-31",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 217000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0307",
+    "date": "2026-09-01",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 94500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0308",
+    "date": "2026-09-01",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 416500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0309",
+    "date": "2026-09-01",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 44500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0310",
+    "date": "2026-09-02",
+    "merchant": "Kos Melati",
+    "description": "Pembayaran sewa kos bulanan",
+    "amount": 1500000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0311",
+    "date": "2026-09-02",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 229000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0312",
+    "date": "2026-09-02",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 113500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0313",
+    "date": "2026-09-03",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 125000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0314",
+    "date": "2026-09-04",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 51500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0315",
+    "date": "2026-09-04",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 25500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0316",
+    "date": "2026-09-05",
+    "merchant": "Netflix",
+    "description": "Langganan streaming bulanan",
+    "amount": 149000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0317",
+    "date": "2026-09-05",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 65000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0318",
+    "date": "2026-09-05",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 53000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0319",
+    "date": "2026-09-05",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 21000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0320",
+    "date": "2026-09-05",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 79000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0321",
+    "date": "2026-09-06",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 21000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0322",
+    "date": "2026-09-06",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 500500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0323",
+    "date": "2026-09-06",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 20500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0324",
+    "date": "2026-09-07",
+    "merchant": "Spotify",
+    "description": "Langganan musik bulanan",
+    "amount": 54000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0325",
+    "date": "2026-09-07",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 68500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0326",
+    "date": "2026-09-07",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 99000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0327",
+    "date": "2026-09-09",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 259000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0328",
+    "date": "2026-09-09",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 123000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0329",
+    "date": "2026-09-09",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 599500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0330",
+    "date": "2026-09-10",
+    "merchant": "PLN",
+    "description": "Token listrik",
+    "amount": 160000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0331",
+    "date": "2026-09-11",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 181500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0332",
+    "date": "2026-09-11",
+    "merchant": "Shopee",
+    "description": "Belanja online pakaian",
+    "amount": 408000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0333",
+    "date": "2026-09-12",
+    "merchant": "PDAM",
+    "description": "Tagihan air bulanan",
+    "amount": 126500,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0334",
+    "date": "2026-09-12",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 345000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0335",
+    "date": "2026-09-12",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 90000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0336",
+    "date": "2026-09-12",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 53500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0337",
+    "date": "2026-09-12",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 42500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0338",
+    "date": "2026-09-13",
+    "merchant": "KAI Commuter",
+    "description": "Top up kartu commuter line",
+    "amount": 92500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0339",
+    "date": "2026-09-13",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 26500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0340",
+    "date": "2026-09-13",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 55000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0341",
+    "date": "2026-09-13",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 25000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0342",
+    "date": "2026-09-14",
+    "merchant": "Telkomsel",
+    "description": "Pulsa dan paket data",
+    "amount": 109500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0343",
+    "date": "2026-09-15",
+    "merchant": "Gold's Gym",
+    "description": "Iuran gym bulanan",
+    "amount": 250000,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0344",
+    "date": "2026-09-15",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 35000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0345",
+    "date": "2026-09-15",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 202000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0346",
+    "date": "2026-09-15",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 48500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0347",
+    "date": "2026-09-17",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 41000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0348",
+    "date": "2026-09-17",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 75500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0349",
+    "date": "2026-09-18",
+    "merchant": "Udemy",
+    "description": "Kursus online",
+    "amount": 385500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0350",
+    "date": "2026-09-18",
+    "merchant": "Alfamart",
+    "description": "Belanja kebutuhan harian",
+    "amount": 67000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0351",
+    "date": "2026-09-19",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 37000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0352",
+    "date": "2026-09-19",
+    "merchant": "Gojek",
+    "description": "Transportasi ojek online",
+    "amount": 13500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0353",
+    "date": "2026-09-20",
+    "merchant": "Grab",
+    "description": "Transportasi mobil online",
+    "amount": 44500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0354",
+    "date": "2026-09-20",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 586000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0355",
+    "date": "2026-09-20",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 39000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0356",
+    "date": "2026-09-21",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 37500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0357",
+    "date": "2026-09-21",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 34500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0358",
+    "date": "2026-09-22",
+    "merchant": "GoFood",
+    "description": "Pesan makanan online",
+    "amount": 49500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0359",
+    "date": "2026-09-22",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 18500,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0360",
+    "date": "2026-09-23",
+    "merchant": "Laundry Bersih",
+    "description": "Cuci setrika kiloan",
+    "amount": 46000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0361",
+    "date": "2026-09-24",
+    "merchant": "SPBU Pertamina",
+    "description": "Isi bensin motor",
+    "amount": 28500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0362",
+    "date": "2026-09-25",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 83000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0363",
+    "date": "2026-09-25",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 54500,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0364",
+    "date": "2026-09-25",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 146000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0365",
+    "date": "2026-09-26",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 97000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0366",
+    "date": "2026-09-26",
+    "merchant": "Gramedia",
+    "description": "Buku",
+    "amount": 107500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0367",
+    "date": "2026-09-26",
+    "merchant": "Traveloka",
+    "description": "Tiket kereta perjalanan",
+    "amount": 166500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0368",
+    "date": "2026-09-26",
+    "merchant": "CGV Cinemas",
+    "description": "Tiket bioskop",
+    "amount": 68000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0369",
+    "date": "2026-09-27",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 38000,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0370",
+    "date": "2026-09-27",
+    "merchant": "Superindo",
+    "description": "Belanja bulanan",
+    "amount": 227500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0371",
+    "date": "2026-09-27",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 40000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0372",
+    "date": "2026-09-27",
+    "merchant": "Kopi Kenangan",
+    "description": "Kopi",
+    "amount": 27000,
+    "currency": "IDR",
+    "payment_method": "E-Wallet"
+  },
+  {
+    "transaction_id": "TRX-0373",
+    "date": "2026-09-28",
+    "merchant": "Bank Mandiri",
+    "description": "Biaya admin bulanan",
+    "amount": 15000,
+    "currency": "IDR",
+    "payment_method": "Bank Transfer"
+  },
+  {
+    "transaction_id": "TRX-0374",
+    "date": "2026-09-28",
+    "merchant": "Barbershop Rapi",
+    "description": "Potong rambut",
+    "amount": 52500,
+    "currency": "IDR",
+    "payment_method": "QRIS"
+  },
+  {
+    "transaction_id": "TRX-0375",
+    "date": "2026-09-28",
+    "merchant": "Klinik Sehat Bersama",
+    "description": "Konsultasi dokter",
+    "amount": 282500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0376",
+    "date": "2026-09-28",
+    "merchant": "Warung Nasi Padang",
+    "description": "Makan siang",
+    "amount": 45000,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0377",
+    "date": "2026-09-29",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 153500,
+    "currency": "IDR",
+    "payment_method": "Cash"
+  },
+  {
+    "transaction_id": "TRX-0378",
+    "date": "2026-09-30",
+    "merchant": "Tokopedia",
+    "description": "Belanja online perlengkapan",
+    "amount": 540500,
+    "currency": "IDR",
+    "payment_method": "Credit Card"
+  },
+  {
+    "transaction_id": "TRX-0379",
+    "date": "2026-09-30",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 60000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  },
+  {
+    "transaction_id": "TRX-0380",
+    "date": "2026-09-30",
+    "merchant": "Apotek K24",
+    "description": "Obat dan vitamin",
+    "amount": 117000,
+    "currency": "IDR",
+    "payment_method": "Debit Card"
+  }
+]

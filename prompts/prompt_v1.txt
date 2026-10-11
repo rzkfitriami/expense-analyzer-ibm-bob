@@ -1,0 +1,1 @@
+Kategorikan data pengeluaran berikut berdasarkan merchant dan deskripsinya.
